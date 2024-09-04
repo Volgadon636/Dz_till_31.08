@@ -1,0 +1,19 @@
+﻿  dz_till_31.08.cpp
+C:\Users\Администратор\source\repos\dz_till_31.08\dz_till_31.08\dz_till_31.08.cpp(58,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Администратор\source\repos\dz_till_31.08\dz_till_31.08\dz_till_31.08.cpp(152,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Администратор\source\repos\dz_till_31.08\dz_till_31.08\dz_till_31.08.cpp(9,21): warning C4244: +=: преобразование "T" в "__int64", возможна потеря данных
+C:\Users\Администратор\source\repos\dz_till_31.08\dz_till_31.08\dz_till_31.08.cpp(9,21): warning C4244:         with
+C:\Users\Администратор\source\repos\dz_till_31.08\dz_till_31.08\dz_till_31.08.cpp(9,21): warning C4244:         [
+C:\Users\Администратор\source\repos\dz_till_31.08\dz_till_31.08\dz_till_31.08.cpp(9,21): warning C4244:             T=float
+C:\Users\Администратор\source\repos\dz_till_31.08\dz_till_31.08\dz_till_31.08.cpp(9,21): warning C4244:         ]
+  C:\Users\Администратор\source\repos\dz_till_31.08\dz_till_31.08\dz_till_31.08.cpp(9,21):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Администратор\source\repos\dz_till_31.08\dz_till_31.08\dz_till_31.08.cpp(160,21):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "double avg<float,int>(T *,T2)"
+          with
+          [
+              T=float,
+              T2=int
+          ]
+  
+  dz_till_31.08.vcxproj -> C:\Users\Администратор\source\repos\dz_till_31.08\x64\Debug\dz_till_31.08.exe
